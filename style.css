@@ -1,6 +1,6 @@
 body{
     background-color: F2ECE0;
-    font-size: smaller;
+    font-size:medium;
     margin: 0%;
 }
 #warpper{
@@ -40,17 +40,17 @@ body{
     margin-right: 10px;
 }
 #image1 img{
-    height: 200px;
-    width: 220px;
+    height: 400px;
+    width: 440px;
 
 }
 #but button{
     color: aliceblue;
     background-color:98460E;
     border: 0ch;
-    font-size: x-large;
-    height: 30px;
-    width: 30mm;
+    font-size: xx-large;
+    height: 60px;
+    width: 150px;
     border-radius: 6px;
     margin-top: 40px;
     
@@ -69,8 +69,8 @@ body{
 
 }
 #f img,#d img,#m img{
-  height: 80px;
-  width: 80px;  
+  height: 100px;
+  width: 100px;  
 }
 #three{
     height: 300px;
@@ -89,8 +89,8 @@ body{
     
 }
 #web{
-    height: 150px;
-    width: 220px;
+    height: 300px;
+    width: 440px;
     
 
 }
@@ -105,8 +105,8 @@ body{
     margin-bottom: 10px;
 }
 #lg{
-    height: 170px;
-    width: 220px;
+    height: 370px;
+    width: 440px;
     
 
 }
@@ -121,8 +121,8 @@ body{
     
 }
 #blog{
-    height: 40mm;
-    width: 200px;
+    height: 300px;
+    width: 440px;
     
 
 }
