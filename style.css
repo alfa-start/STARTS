@@ -8,12 +8,12 @@ body{
     margin-right: 10px;
 }
 
-body #end{
+#end{
     background-color:E8A93F;
     display: flex;
     width: 100%;
-    margin-top: 20px;
-    height: 150px;
+    margin-top: 20mm;
+    height: 60mm;
 }
 .nav{
     display: flex;
@@ -50,7 +50,7 @@ body #end{
     border: 0ch;
     font-size: x-large;
     height: 30px;
-    width: 100px;
+    width: 30mm;
     border-radius: 6px;
     margin-top: 40px;
     
@@ -121,7 +121,7 @@ body #end{
     
 }
 #blog{
-    height: 130px;
+    height: 40mm;
     width: 200px;
     
 
@@ -221,7 +221,7 @@ body #end{
 
 }
 .open-popupb{
-    top: 150%;
+    top: 305mm;
     transform: translate(-50%,-50%) scale(1);
     visibility: visible;
 
@@ -234,7 +234,7 @@ body #end{
 
 
 
-@media screen and (min-width: 750px)
+@media screen and (min-width: 200mm)
 {
     body{
         background-color: F2ECE0;
@@ -264,7 +264,7 @@ body #end{
     
 }
 
-@media screen and (min-width: 600px) and (max-width: 750px)
+@media screen and (min-width: 600px ) and (max-width: 250mm)
 {
     body{
         background-color: F2ECE0;
